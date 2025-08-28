@@ -3,12 +3,20 @@ I have completed The coders guild web development course and the Northcoders Dat
 
 I have experience with the following:
 
-Programming languages: JavaScript, Python, HTML, CSS /n
-Integrated developer Environment: Visual Studio Code /n
-Cloud: AWS, including Cloudwatch, IAM, API usage via command line /n
-DevOps: Terraform, CI.CD (GitHub Actions) /n
-Data: SQL, Postgres, normalisation /n
+Programming languages: JavaScript, Python, HTML, CSS 
+
+Integrated developer Environment: Visual Studio Code 
+
+Cloud: AWS, including Cloudwatch, IAM, API usage via command line 
+
+DevOps: Terraform, CI.CD (GitHub Actions) 
+
+Data: SQL, Postgres, normalisation 
+
 Methodology: Agile/Scrum, Trello management & Orchestration 
+
 Testing: Test Driven Development (TDD), Pytest 
+
 Soft skills: Paired Programming 
+
 AI: Chatbots, LLM’s 
