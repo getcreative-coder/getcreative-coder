@@ -1,4 +1,4 @@
-I have completed The coders guild web development course and the Northcoders Data Engineering boot camp with Python 🎉, and I look forward to continuing to grow and improve my skills 😄
+I have completed a course in Web Development and a Data Engineering boot camp with Python 🎉, and I look forward to continuing to grow and improve my skills 😄
 
 
 I have experience with the following:
