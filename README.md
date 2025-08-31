@@ -1,4 +1,4 @@
-## **Completed a Web Development course and Data Engineering boot camp with Python 🎉. Looking forward to continually growing and improving skills 😄**
+## **Completed Web Development course and Data Engineering boot camp with Python 🎉. Looking forward to continually growing and improving skills 😄**
 
 
 ### **Experience with the following:**
