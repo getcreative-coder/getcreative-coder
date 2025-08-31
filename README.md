@@ -1,22 +1,20 @@
-I have completed a course in Web Development and a Data Engineering boot camp with Python 🎉, and I look forward to continuing to grow and improve my skills 😄
+**I have completed a course in Web Development and a Data Engineering boot camp with Python 🎉, and I look forward to continuing to grow and improve my skills 😄**
 
 
-I have experience with the following:
+**I have experience with the following:**
 
-Programming languages: JavaScript, Python, HTML, CSS 
+**Programming languages**: JavaScript, Python, HTML, CSS 
 
-Integrated developer Environment: Visual Studio Code 
+**Integrated developer Environment**: Visual Studio Code 
 
-Cloud: AWS, including Cloudwatch, IAM, API usage via command line 
+**Cloud**: AWS, including Cloudwatch, IAM, API usage via command line 
 
-DevOps: Terraform, CI.CD (GitHub Actions) 
+**DevOps**: Terraform, CI.CD (GitHub Actions) 
 
-Data: SQL, Postgres, normalisation 
+**Data**: SQL, Postgres, normalisation 
 
-Methodology: Agile/Scrum, Trello management & Orchestration 
+**Methodology**: Agile/Scrum, Trello management & Orchestration 
 
-Testing: Test Driven Development (TDD), Pytest 
+**Testing**: Test Driven Development (TDD), Pytest 
 
-Soft skills: Paired Programming 
-
-AI: Chatbots, LLM’s 
+**Soft skills**: Paired Programming 
