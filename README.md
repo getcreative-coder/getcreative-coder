@@ -1,7 +1,7 @@
-**I have completed a Web Development course and a Data Engineering boot camp with Python 🎉, and I look forward to continuing to grow and improve my skills 😄**
+## **Completed a Web Development course and Data Engineering boot camp with Python 🎉. Looking forward to continually growing and improving skills 😄**
 
 
-**I have experience with the following:**
+### **Experience with the following:**
 
 **Programming languages:** JavaScript, Python, HTML, CSS 
 
