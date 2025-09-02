@@ -1,7 +1,7 @@
 # **Hello, I'm Zainab** 👋
 
 
-## **I have completed a Web Development course and a Data Engineering boot camp with Python🎉, and I'm looking forward to continually grow and improve my skills 😄**
+## **I have completed a Web Development course and a Data Engineering boot camp with Python🎉, and I'm looking forward to continually grow and improve my skills 😊**
 
 
 ### **I have experience with the following:**
