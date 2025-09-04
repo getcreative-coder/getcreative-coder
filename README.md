@@ -20,4 +20,4 @@
 
 **Testing:** Test Driven Development (TDD), Pytest 
 
-**Soft skills:** Paired Programming 
+**Soft skills:** Paired Programming, problem solving, analytical, logical, critical thinking 
